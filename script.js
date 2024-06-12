@@ -4,7 +4,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Isso aqui é um vale pra sair cmg e tu ainda vai gahar vários beijos e chocolate 😘";
+  question.innerHTML = "Isso aqui é um vale pra sair cmg e tu ainda vai ganhar vários beijos e chocolate 😘";
 });
 
 noBtn.addEventListener("click", () => {
